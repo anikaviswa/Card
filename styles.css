@@ -1,1 +1,19 @@
+body {
+    background-color: #F7DEE2;
+}
 
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.border {
+    border: 100px;
+}
+
+img {
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
