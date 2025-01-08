@@ -1,2 +1,2 @@
 # Anika's Card
-# A little bit about me!
+A little bit about me!
