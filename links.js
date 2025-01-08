@@ -1,9 +1,3 @@
-/*const pinterestIcon = document.getElementById("pinterest");
-const spotifyIcon = document.getElementById("spotify");
-
-pinterestIcon.addEventListener("click", pinterestLink());
-spotifyIcon.addEventListener("click", spotifyLink());
-*/
 function pinterestLink() {
 	window.open("https://www.pinterest.com/anikaviswanathan/");
 }
