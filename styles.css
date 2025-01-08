@@ -1,19 +1,40 @@
 body {
-    background-color: #F7DEE2;
+    background-color: #ffffff;
 }
 
-p {
+.intro {
+    margin: auto;
+    width: 30%;
+    border: 2px solid #000000;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    background-color: #F7DEE2;
+    font-style: italic;
 }
 
-p.border {
-    border: 100px;
+.border {
+    border: 2px;
+    border-style: solid;
+    border-color: #000000;
 }
 
-img {
-    height: 400px;
+.pfp {
+    height: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons {
+    height: 50px;
+    align-items: center;
+    border: none;
 }
